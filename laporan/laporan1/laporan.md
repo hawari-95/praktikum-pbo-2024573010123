@@ -7,7 +7,11 @@
 ---
 
 ## 1. Abstrak
-Tuliskan ringkasan singkat tentang isi laporan ini dan tujuan Anda membuat laporan.
+Laporan ini membahas dasar-dasar pemrograman Java melalui serangkaian 
+praktikum yang meliputi penggunaan variabel dan tipe data, input-output dengan kelas Scanner, 
+struktur kontrol percabangan (if, if-else, switch), serta perulangan (for, while, dan do-while). 
+Tujuan dari pembuatan laporan ini adalah untuk memahami konsep fundamental dalam pemrograman 
+berorientasi objek menggunakan bahasa Java, khususnya dalam mengelola data, membuat keputusan logis, serta mengotomatisasi proses dengan perulangan. Melalui berbagai contoh program dan analisis, mahasiswa diharapkan mampu menerapkan konsep-konsep tersebut dalam pembuatan program interaktif yang efisien dan terstruktur.
 
 ---
 ## 2. Praktikum
