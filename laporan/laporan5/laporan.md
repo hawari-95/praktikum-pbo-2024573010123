@@ -286,17 +286,7 @@ Penjelasan:
 | Multiple Inheritance     | Lebih besar dari Superclass   | Tidak (Kecuali interface) | `Class C Implements A, B`       |
 | Hybrid Inheritance       | Kombinasi Class + Interface   | ya                        | `Class C entends A, Implement B` |
 
-
-
-
-
-
-
-
 ---
-
-
-
 
 
 ## 2. Praktikum 1 : Memahami Access Modifier
