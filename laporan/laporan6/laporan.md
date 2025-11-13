@@ -1036,3 +1036,40 @@ Kode lebih fleksibel, mudah dikembangkan, dan mendukung prinsip Open-Closed Prin
 
 ---
 
+### Referensi
+
+#### Oracle Java Documentation – Inheritance (Official Source)
+
+Oracle. “Lesson: Inheritance (The Java™ Tutorials > Learning the Java Language > Interfaces and Inheritance).”
+https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+
+(Menjelaskan konsep pewarisan di Java, penggunaan super, dan method overriding secara resmi dari dokumentasi Java.)
+
+#### Oracle Java Documentation – Polymorphism
+
+Oracle. “Polymorphism in Java (The Java™ Tutorials).”
+https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
+
+(Sumber resmi untuk memahami cara kerja dynamic method dispatch dalam polymorphism.)
+
+#### GeeksforGeeks – Java Inheritance and Polymorphism
+
+“Inheritance in Java.”
+https://www.geeksforgeeks.org/inheritance-in-java/
+
+“Polymorphism in Java.”
+https://www.geeksforgeeks.org/polymorphism-in-java/
+
+
+#### W3Schools – Java Inheritance and Polymorphism
+
+“Java Inheritance.”
+https://www.w3schools.com/java/java_inheritance.asp
+
+“Java Polymorphism.”
+https://www.w3schools.com/java/java_polymorphism.asp
+
+(Sumber praktis dengan contoh singkat untuk memahami konsep inheritance dan polymorphism.)
+
+---
+
